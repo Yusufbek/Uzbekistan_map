@@ -1,0 +1,5 @@
+{
+  "name": "Uzbekistan Live View Dashboard",
+  "description": "An interactive dashboard displaying live page views and meetings booked on a map of Uzbekistan, similar to Shopify's live view.",
+  "requestFramePermissions": []
+}
